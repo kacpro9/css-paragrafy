@@ -1,0 +1,16 @@
+p {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
+
+.paragraf2,
+.paragraf3,
+.paragraf8 {
+    background-color: blue;
+}
+
+.paragraf6,
+.paragraf9 {
+    opacity: 0.9;
+}
